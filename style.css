@@ -16,7 +16,7 @@ h2 {
 }
 h4 {
   color: white;
-  transition: 1.2s;
+  transition: 0.5s;
 }
 h4:hover {
   text-shadow: 0 0 10px #7e4fd6, 0 0 20px #7e4fd6, 0 0 30px #7e4fd6, 0 0 60px #7e4fd6, 0 0 100px #7e4fd6, 0 0 300px #7e4fd6;
